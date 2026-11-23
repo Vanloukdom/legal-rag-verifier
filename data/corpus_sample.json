@@ -1,0 +1,21 @@
+{
+  "_avertissement": "Corpus de DÉMONSTRATION : les champs 'text' sont des résumés. En production, importer le texte officiel et consolidé depuis Légifrance (API PISTE) avec les dates de vigueur.",
+  "articles": [
+    {"ref": "L3121-27", "code": "Code du travail", "title": "Durée légale du travail",
+     "text": "La durée légale de travail effective des salariés à temps complet est fixée à trente-cinq heures par semaine."},
+    {"ref": "L3121-18", "code": "Code du travail", "title": "Durée quotidienne maximale",
+     "text": "La durée quotidienne de travail effectif par salarié ne peut excéder dix heures, sauf dérogations prévues par la loi."},
+    {"ref": "L3121-20", "code": "Code du travail", "title": "Durée hebdomadaire maximale",
+     "text": "Au cours d'une même semaine, la durée maximale de travail ne peut dépasser quarante-huit heures."},
+    {"ref": "L1221-19", "code": "Code du travail", "title": "Durée de la période d'essai du CDI",
+     "text": "Le contrat de travail à durée indéterminée peut comporter une période d'essai dont la durée maximale est de deux mois pour les ouvriers et les employés, de trois mois pour les agents de maîtrise et les techniciens, et de quatre mois pour les cadres."},
+    {"ref": "L1221-21", "code": "Code du travail", "title": "Renouvellement de la période d'essai",
+     "text": "La période d'essai peut être renouvelée une fois si un accord de branche étendu le prévoit."},
+    {"ref": "L3141-3", "code": "Code du travail", "title": "Acquisition des congés payés",
+     "text": "Le salarié a droit à un congé de deux jours et demi ouvrables par mois de travail effectif chez le même employeur."},
+    {"ref": "L1234-1", "code": "Code du travail", "title": "Préavis de licenciement",
+     "text": "Sauf faute grave, le salarié licencié a droit à un préavis d'un mois s'il justifie d'une ancienneté comprise entre six mois et moins de deux ans, et de deux mois s'il justifie d'une ancienneté d'au moins deux ans."},
+    {"ref": "L1237-11", "code": "Code du travail", "title": "Rupture conventionnelle",
+     "text": "L'employeur et le salarié peuvent convenir en commun des conditions de la rupture du contrat de travail qui les lie. La rupture conventionnelle ne peut être imposée par l'une ou l'autre des parties."}
+  ]
+}
